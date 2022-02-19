@@ -1,5 +1,7 @@
 ## Nestjs computer DI api
 
+Course: "NestJS: The Complete Developer's Guide" by Stephen Grider.
+
 App goal: Quick project to understand modules and Dependency Injection (DI). Also includes how to share services between different modules.
 
 Command for generating modules:
